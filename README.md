@@ -48,7 +48,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - Flexbox
 - [Vue](https://vuejs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components Vuetify](https://vuetifyjs.com/en/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
